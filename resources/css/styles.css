@@ -416,7 +416,7 @@ a {
 
 .nav-link:hover {
   color: #777;
-  background-color: #58e1c1;
+  background-color: #80e8d1;
 }
 
 .img-avatar {
@@ -435,7 +435,7 @@ a {
   margin-top: 10px;
   max-width: 100%;
   padding: 13px;
-  border: 1px solid #ccc;
+  border: 1px solid #fff;
 }
 
 .img-logo {
@@ -463,7 +463,7 @@ a {
 }
 
 .theme.col-1 {
-  background-color: #927bc1;
+  background-color: #cbc0e2;
 }
 
 .theme.col-2 {
@@ -475,23 +475,23 @@ a {
 }
 
 .theme.col-4 {
-  background-color: #7ee6fd;
+  background-color: #5ddffc;
 }
 
 .theme.col-5 {
-  background-color: #88d9a0;
+  background-color: #89d9a1;
 }
 
 .theme.col-6 {
-  background-color: #4da2bb;
+  background-color: #3fabca;
 }
 
 .theme.col-7 {
-  background-color: #ec9fa3;
+  background-color: #eca0a3;
 }
 
 .theme.col-8 {
-  background-color: #fd9f85;
+  background-color: #fea088;
 }
 
 .theme.col-9 {
@@ -503,7 +503,7 @@ a {
 }
 
 .theme.col-11 {
-  background-color: #51ddfc;
+  background-color: #5ddffc;
 }
 
 .theme.col-12 {

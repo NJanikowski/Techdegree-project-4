@@ -7,7 +7,7 @@ $white: #fff;
 $berry: #e4757a;
 $berry-light: lighten($berry, 10%);
 $orange: #fd7856;
-$orange-light: lighten($red, 10%);
+$orange-light: lighten($orange, 10%);
 $purple: #927bc1;
 $purple-light: lighten($purple, 20%);
 $green: #63cc82;
@@ -15,3 +15,6 @@ $green-light: lighten($green, 10%);
 $lilac:#deb2ee;
 $lilac-light: lighten($lilac, 20%);
 $seafoam: #80e8d1;
+
+$ds: 1400px;
+$ts: 768px;
